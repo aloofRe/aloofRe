@@ -1,4 +1,4 @@
-## Hi! I Commonly Go By The Online Alias: "Axolotl"
+## Hi! I'm aloofRe!
 
 - I'm currently learning Game Development
 - Software I'm learning to use:
@@ -6,6 +6,6 @@
   - Blender
   - Aseprite
   - Davinci Resolve
-  - Cakewalk
+  - FL Studio
 
 I record down any of my notable creations here in my Github! They're all here :D
