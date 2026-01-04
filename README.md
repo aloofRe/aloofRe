@@ -5,7 +5,7 @@
   - Godot
   - Blender
   - Aseprite
-  - Davinci Resolve
+  - Krita
   - FL Studio
 
 I record down any of my notable creations here in my Github! They're all here :D
