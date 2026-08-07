@@ -1,4 +1,4 @@
-## Hi! I'm aloofRe!
+## Hi! I'm Rein!
 
 Random hobbyist gamedev.
 Tools I may use:
